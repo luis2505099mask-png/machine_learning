@@ -1,1 +1,1 @@
-print ("Control")
+print ("Control:","100")
